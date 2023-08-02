@@ -3,7 +3,7 @@ owner: ignore-me-lol # Your GitHub organization or username, where this reposito
 repo: personal-uptime-monitor # The name of this repository
 
 status-website:
-  theme: midnight
+  theme: night
   
 sites:
   - name: 'Personal: AA'
