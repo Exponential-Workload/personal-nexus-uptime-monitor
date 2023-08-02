@@ -1,4 +1,4 @@
-# [📈 Live Status](https://gh.expo.moe): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://nup.expo.moe): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page [Upptime](https://github.com/upptime/upptime).
 
