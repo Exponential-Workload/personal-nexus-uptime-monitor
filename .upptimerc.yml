@@ -13,8 +13,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: gh.expo.moe
-  baseUrl: /personal-nexus-uptime-monitor
+  cname: nup.expo.moe
+  #baseUrl: /personal-nexus-uptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Personal Nexus Uptime Monitor
   introTitle: "**PNUM** is my personal uptime monitoring utility for Nexus-related things."
