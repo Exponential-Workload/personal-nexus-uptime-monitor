@@ -23,7 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Personal Uptime Monitor
   introTitle: "**this** is my personal uptime monitoring utility for things."
-  introMessage: contains uptime data for basically anything i care enough about to put in here
+  introMessage: contains uptime data for basically anything i care enough about to put in here - take ping with a massive grain of salt, as github runners are known to be slow
   navbar:
     - title: Status
       href: /
