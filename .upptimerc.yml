@@ -5,6 +5,10 @@ repo: personal-uptime-monitor # The name of this repository
 sites:
   - name: 'Personal: AA'
     url: https://aim.femboy.cafe
+  - name: 'Rbux: Frontend'
+    url: https://rbux.pw
+  - name: 'Rbux: Backend'
+    url: https://api.rbux.pw/app/leaderboard
   - name: 'Nexus: Landing'
     url: https://nexuspipe.com
   - name: 'Nexus: Docs'
