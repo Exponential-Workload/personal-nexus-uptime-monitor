@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/rbux.pw.ico",
     "slug": "rbux-frontend",
     "status": "up",
-    "uptime": "75.86%",
+    "uptime": "76.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.82%",
-    "uptimeMonth": "75.86%",
-    "uptimeYear": "75.86%",
+    "uptimeWeek": "70.15%",
+    "uptimeMonth": "76.09%",
+    "uptimeYear": "76.09%",
     "time": 379,
     "timeDay": 331,
-    "timeWeek": 282,
+    "timeWeek": 276,
     "timeMonth": 379,
     "timeYear": 379,
     "dailyMinutesDown": {
@@ -74,11 +74,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexuspipe.com.ico",
     "slug": "nexus-landing",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
     "time": 175,
     "timeDay": 61,
     "timeWeek": 98,
@@ -151,9 +151,9 @@
     "url": "https://fonts-cdn.nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/fonts-cdn.nexuspipe.com.ico",
     "slug": "nexus-fonts-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -162,6 +162,8 @@
     "timeWeek": 111,
     "timeMonth": 120,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 0
+    }
   }
 ]
