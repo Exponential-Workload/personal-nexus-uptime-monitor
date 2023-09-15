@@ -28,7 +28,7 @@
     "uptime": "84.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.45%",
+    "uptimeMonth": "85.48%",
     "uptimeYear": "84.97%",
     "time": 410,
     "timeDay": 325,
@@ -152,19 +152,19 @@
     "url": "https://fonts-cdn.nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/fonts-cdn.nexuspipe.com.ico",
     "slug": "nexus-fonts-cdn",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.93%",
     "time": 120,
     "timeDay": 101,
     "timeWeek": 130,
     "timeMonth": 121,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-09-15": 56
+      "2023-09-15": 46
     }
   }
 ]
