@@ -4,11 +4,11 @@
     "url": "https://aim.femboy.cafe",
     "icon": "https://icons.duckduckgo.com/ip3/aim.femboy.cafe.ico",
     "slug": "personal-aa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 350,
     "timeDay": 715,
@@ -16,6 +16,7 @@
     "timeMonth": 372,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2023-12-18": 3,
       "2023-08-04": 20
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://rbux.pw",
     "icon": "https://icons.duckduckgo.com/ip3/rbux.pw.ico",
     "slug": "rbux-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "93.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.15%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "98.12%",
     "uptimeMonth": "95.62%",
     "uptimeYear": "93.49%",
     "time": 446,
@@ -36,6 +37,7 @@
     "timeMonth": 489,
     "timeYear": 446,
     "dailyMinutesDown": {
+      "2023-12-18": 3,
       "2023-12-12": 186,
       "2023-12-03": 877,
       "2023-12-02": 224,
@@ -64,10 +66,10 @@
     "url": "https://api.rbux.pw/app/leaderboard",
     "icon": "https://icons.duckduckgo.com/ip3/api.rbux.pw.ico",
     "slug": "rbux-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 680,
@@ -75,17 +77,19 @@
     "timeWeek": 985,
     "timeMonth": 765,
     "timeYear": 680,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-18": 2
+    }
   },
   {
     "name": "Nexus: Landing",
     "url": "https://nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/nexuspipe.com.ico",
     "slug": "nexus-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 176,
@@ -94,6 +98,7 @@
     "timeMonth": 161,
     "timeYear": 176,
     "dailyMinutesDown": {
+      "2023-12-18": 2,
       "2023-09-03": 52,
       "2023-08-21": 257,
       "2023-08-08": 42,
@@ -105,9 +110,9 @@
     "url": "https://docs.nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.nexuspipe.com.ico",
     "slug": "nexus-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +121,9 @@
     "timeWeek": 272,
     "timeMonth": 186,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-18": 0
+    }
   },
   {
     "name": "Nexus: Dashboard",
@@ -166,12 +173,12 @@
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "96.40%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "98.87%",
     "time": 108,
     "timeDay": 120,
-    "timeWeek": 150,
-    "timeMonth": 111,
+    "timeWeek": 151,
+    "timeMonth": 112,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-12-11": 62,
