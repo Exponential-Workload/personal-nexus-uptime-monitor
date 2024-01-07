@@ -69,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.rbux.pw.ico",
     "slug": "rbux-backend",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.69%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.91%",
     "time": 697,
     "timeDay": 892,
     "timeWeek": 811,
     "timeMonth": 848,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-01-07": 76,
+      "2024-01-07": 124,
       "2023-12-18": 80
     }
   },
@@ -175,16 +175,16 @@
     "url": "https://fonts-cdn.nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/fonts-cdn.nexuspipe.com.ico",
     "slug": "nexus-fonts-cdn",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "98.81%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "98.79%",
     "uptimeWeek": "96.55%",
     "uptimeMonth": "98.41%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.92%",
     "time": 127,
-    "timeDay": 149,
+    "timeDay": 150,
     "timeWeek": 160,
-    "timeMonth": 201,
+    "timeMonth": 202,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2024-01-07": 17,
@@ -214,7 +214,7 @@
       "2023-11-15": 166,
       "2023-11-14": 42,
       "2023-11-13": 44,
-      "2023-11-12": 64
+      "2023-11-12": 22
     }
   }
 ]
