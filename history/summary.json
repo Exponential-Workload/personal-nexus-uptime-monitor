@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rbux.pw.ico",
     "slug": "rbux-frontend",
     "status": "up",
-    "uptime": "94.39%",
+    "uptime": "94.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "94.39%",
+    "uptimeYear": "94.40%",
     "time": 446,
     "timeDay": 72,
     "timeWeek": 313,
@@ -175,10 +175,10 @@
     "url": "https://fonts-cdn.nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/fonts-cdn.nexuspipe.com.ico",
     "slug": "nexus-fonts-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "94.29%",
-    "uptimeWeek": "93.21%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "93.20%",
     "uptimeMonth": "98.06%",
     "uptimeYear": "98.94%",
     "time": 128,
@@ -213,7 +213,7 @@
       "2023-11-20": 276,
       "2023-11-19": 86,
       "2023-11-18": 89,
-      "2023-11-17": 33
+      "2023-11-17": 17
     }
   }
 ]
