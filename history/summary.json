@@ -29,12 +29,12 @@
     "uptime": "94.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.26%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "94.43%",
     "time": 446,
     "timeDay": 0,
     "timeWeek": 289,
-    "timeMonth": 456,
+    "timeMonth": 458,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2024-01-07": 91,
@@ -175,15 +175,15 @@
     "url": "https://fonts-cdn.nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/fonts-cdn.nexuspipe.com.ico",
     "slug": "nexus-fonts-cdn",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "89.33%",
-    "uptimeWeek": "92.36%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "92.35%",
     "uptimeMonth": "97.80%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 130,
-    "timeDay": 247,
-    "timeWeek": 176,
+    "timeDay": 286,
+    "timeWeek": 177,
     "timeMonth": 197,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -212,7 +212,7 @@
       "2023-11-22": 95,
       "2023-11-21": 109,
       "2023-11-20": 276,
-      "2023-11-19": 67
+      "2023-11-19": 32
     }
   }
 ]
