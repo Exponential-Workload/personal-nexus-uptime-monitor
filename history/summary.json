@@ -175,9 +175,9 @@
     "url": "https://fonts-cdn.nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/fonts-cdn.nexuspipe.com.ico",
     "slug": "nexus-fonts-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "89.23%",
+    "uptimeDay": "89.22%",
     "uptimeWeek": "91.78%",
     "uptimeMonth": "97.15%",
     "uptimeYear": "98.95%",
@@ -214,7 +214,7 @@
       "2023-11-23": 78,
       "2023-11-22": 95,
       "2023-11-21": 109,
-      "2023-11-20": 103
+      "2023-11-20": 87
     }
   }
 ]
