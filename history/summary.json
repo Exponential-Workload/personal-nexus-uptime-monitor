@@ -69,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.rbux.pw.ico",
     "slug": "rbux-backend",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "46.27%",
-    "uptimeWeek": "92.32%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.47%",
+    "uptimeDay": "30.28%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "99.47%",
     "time": 680,
     "timeDay": 363,
     "timeWeek": 470,
     "timeMonth": 687,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-01-17": 700,
+      "2024-01-17": 930,
       "2024-01-16": 74,
       "2024-01-07": 192,
       "2023-12-18": 80
@@ -177,15 +177,15 @@
     "url": "https://fonts-cdn.nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/fonts-cdn.nexuspipe.com.ico",
     "slug": "nexus-fonts-cdn",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "85.75%",
-    "uptimeWeek": "91.89%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "92.06%",
     "uptimeMonth": "96.46%",
-    "uptimeYear": "98.93%",
+    "uptimeYear": "98.94%",
     "time": 136,
-    "timeDay": 172,
-    "timeWeek": 182,
+    "timeDay": 184,
+    "timeWeek": 184,
     "timeMonth": 194,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -216,7 +216,7 @@
       "2023-12-02": 99,
       "2023-11-24": 67,
       "2023-11-23": 78,
-      "2023-11-22": 77
+      "2023-11-22": 61
     }
   }
 ]
