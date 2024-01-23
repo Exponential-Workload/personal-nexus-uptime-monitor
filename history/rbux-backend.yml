@@ -1,7 +1,7 @@
 url: https://api.rbux.pw/app/leaderboard
-status: down
-code: 500
-responseTime: 574
-lastUpdated: 2024-01-23T04:30:28.041Z
+status: up
+code: 204
+responseTime: 632
+lastUpdated: 2024-01-23T05:19:49.479Z
 startTime: 2023-08-03T07:21:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
