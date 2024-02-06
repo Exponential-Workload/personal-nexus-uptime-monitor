@@ -215,18 +215,19 @@
     "url": "https://fonts-cdn.nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/fonts-cdn.nexuspipe.com.ico",
     "slug": "nexus-fonts-cdn",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "59.84%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "84.09%",
     "uptimeWeek": "90.76%",
-    "uptimeMonth": "93.53%",
-    "uptimeYear": "98.67%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "98.68%",
     "time": 188,
     "timeDay": 749,
     "timeWeek": 1321,
-    "timeMonth": 328,
+    "timeMonth": 330,
     "timeYear": 188,
     "dailyMinutesDown": {
+      "2024-02-06": 0,
       "2024-02-05": 619,
       "2024-02-04": 268,
       "2024-01-30": 44,
@@ -256,7 +257,7 @@
       "2023-12-08": 151,
       "2023-12-07": 73,
       "2023-12-06": 93,
-      "2023-12-05": 43
+      "2023-12-05": 25
     }
   }
 ]
