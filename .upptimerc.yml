@@ -16,9 +16,11 @@ sites:
   - name: 'Nexus: Dashboard'
     url: https://dash.nexuspipe.com
   - name: 'Nexus: Fonts'
+    url: https://fonts.nexus
+  - name: 'Nexus: Fonts Legacy Domain'
     url: https://fonts.nexuspipe.com
-  - name: 'Nexus: Fonts CDN'
-    url: https://fonts-cdn.nexuspipe.com
+  - name: 'Nexus: CDN.Fonts'
+    url: https://cdn.fonts.nexus
 
 status-website:
   theme: night
