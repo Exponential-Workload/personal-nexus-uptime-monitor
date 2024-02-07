@@ -4,17 +4,17 @@
     "url": "https://aim.femboy.cafe",
     "icon": "https://icons.duckduckgo.com/ip3/aim.femboy.cafe.ico",
     "slug": "personal-aa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "92.62%",
     "uptimeWeek": "97.90%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.83%",
-    "time": 471,
-    "timeDay": 888,
-    "timeWeek": 990,
-    "timeMonth": 822,
-    "timeYear": 471,
+    "time": 473,
+    "timeDay": 770,
+    "timeWeek": 964,
+    "timeMonth": 818,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2024-02-07": 106,
       "2024-02-05": 19,
@@ -222,9 +222,9 @@
     "url": "https://fonts-cdn.nexuspipe.com",
     "icon": "https://icons.duckduckgo.com/ip3/fonts-cdn.nexuspipe.com.ico",
     "slug": "nexus-fonts-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "91.97%",
+    "uptimeDay": "91.96%",
     "uptimeWeek": "89.80%",
     "uptimeMonth": "93.51%",
     "uptimeYear": "98.65%",
@@ -264,7 +264,7 @@
       "2023-12-09": 38,
       "2023-12-08": 151,
       "2023-12-07": 73,
-      "2023-12-06": 93
+      "2023-12-06": 77
     }
   }
 ]
