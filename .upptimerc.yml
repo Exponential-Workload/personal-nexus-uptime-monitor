@@ -9,18 +9,10 @@ sites:
     url: https://rbux.pw
   - name: 'Rbux: Backend'
     url: https://api.rbux.pw/app/leaderboard
-  - name: 'Nexus: Landing'
-    url: https://nexuspipe.com
-  - name: 'Nexus: Docs'
-    url: https://docs.nexuspipe.com
-  - name: 'Nexus: Dashboard'
-    url: https://dash.nexuspipe.com
-  - name: 'Nexus: Fonts'
-    url: https://fonts.nexus
-  - name: 'Nexus: Fonts Legacy Domain'
-    url: https://fonts.nexuspipe.com
-  - name: 'Nexus: CDN.Fonts'
-    url: https://cdn.fonts.nexus
+  - name: 'Arson: Fonts'
+    url: https://fonts.expo.moe
+  - name: 'Arson: CDN.Fonts'
+    url: https://cdn.fonts.expo.moe
 
 status-website:
   theme: night
